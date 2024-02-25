@@ -17,7 +17,7 @@ keep track of relevant data from across multiple carrier websites. Repo for this
 - ⚡ Possible future projects:
   - Unity Fluid Renderer
   - HTTP/Application Blocker (Something like _SelfControl_ for Mac)
-  - My own 2d Puzzle Platformer _Light's Out_!
+  - My own 2d Puzzle Platformer _Light's Out!_
 - 💻 My languages
   - Python - 🟢 Extremely proficient
   - Java - 🟢 Proficient
