@@ -10,7 +10,7 @@ I've turned to GitHub as both a portfolio site, as well as a way to save and cat
 - 🔭 I’m currently working on ...
   - ***Fetch!***, a program for the Oneill Marketing general insurance agency to help
 keep track of relevant data from across multiple carrier websites. Repo for this is private due to NDA
-  - a bot to automatically determine the most optimal gameplan for the popular webgame **InfiniteCraft**. Working on this in conjunction with `@quantumbagel`
+  - a bot to automatically determine the most optimal crafting tree for the popular webgame **InfiniteCraft**. Working on this in conjunction with `@quantumbagel`
 - 🌱 I’m currently learning ...
   - The C programming language
   - how to use the Requests and Selenium python libraries
