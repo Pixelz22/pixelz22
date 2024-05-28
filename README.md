@@ -19,13 +19,13 @@ keep track of relevant data from across multiple carrier websites. Repo for this
   - HTTP/Application Blocker (Something like _SelfControl_ for Mac)
   - My own 2d Puzzle Platformer _Light's Out!_
   - Learning Management System for Homeschoolers
-- 💻 My languages
+- 💻 My languages:
   - Python - 🟢 Extremely proficient
   - Java - 🟢 Proficient
   - C# - 🟡 Proficient, but mostly in the context of the Unity game engine
-  - C/C++ - 🔴 Still learning, but shows lots of promise
+  - C/C++ - 🟡 Comfortable, but willing to learn
   - HTML/CSS - 🔴 Minimal: Enough to parse websites and create basic websites, but could easily learn if the need arises
   - Javascript - 🔴 Minimal: Learning in the context of web scraping
-- 📫 How to reach me: ...
+- 📫 How to reach me:
   - Discord: `@.bocket`
   - Email: `tljohnson1225@gmail.com`
