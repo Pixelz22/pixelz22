@@ -8,13 +8,14 @@ to delve deep into the world of Game Development, particularly graphics renderin
 I've turned to GitHub as both a portfolio site, as well as a way to save and catalog my favorite projects.
 
 - 🔭 I’m currently working on ...
-  - A Machine-Learning ChatBot for Oneill Marketing
   - ***Fetch!***, a program for the Oneill Marketing general insurance agency to help
 keep track of relevant data from across multiple carrier websites. Repo for this is private due to NDA
+  - Google Sheets scripting for Oneill Marketing general insurance agency to ease automation
   - a bot to automatically determine the most optimal crafting tree for the popular webgame **InfiniteCraft**. Working on this in conjunction with `@quantumbagel`
 - 🌱 I’m currently learning ...
   - Docker
   - Tensorflow
+  - ZMQ Networking library for C++
 - ⚡ Possible future projects:
   - Unity Fluid Renderer
   - HTTP/Application Blocker (Something like _SelfControl_ for Mac)
@@ -23,8 +24,8 @@ keep track of relevant data from across multiple carrier websites. Repo for this
 - 💻 My languages:
   - Python - 🟢 Extremely proficient
   - Java - 🟢 Proficient
+  - C/C++ - 🟢 Comfortable, but willing to learn
   - C# - 🟡 Proficient, but mostly in the context of the Unity game engine
-  - C/C++ - 🟡 Comfortable, but willing to learn
   - HTML/CSS - 🔴 Minimal: Enough to parse websites and create basic websites, but could easily learn if the need arises
   - Javascript - 🔴 Minimal: Learning in the context of web scraping
 - 📫 How to reach me:
