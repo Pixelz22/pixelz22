@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Tyler Johnson!
 
-I'm a junior at NC State University pursuing a Master's of Computer Science.
+I'm a sophomore at NC State University pursuing a Master's of Computer Science.
 From a young age, I had a passion for video games that bloomed into a passion for computers in general.
 Now I spend much of my free time programming personal projects, though my love of video games has pushed me
 to delve deep into the world of Game Development, particularly graphics rendering.
